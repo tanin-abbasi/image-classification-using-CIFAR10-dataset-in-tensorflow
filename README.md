@@ -1,8 +1,6 @@
 # image-classification-using-CIFAR10-dataset-in-tensorflow
 using convolutional neural network for this image classification problem, 
 
-# Image Classification using CIFAR-10 (TensorFlow)
-
 ## Project Overview
 This project demonstrates image classification using the CIFAR-10 dataset with TensorFlow.
 First, a simple Artificial Neural Network (ANN) is trained as a baseline model.
