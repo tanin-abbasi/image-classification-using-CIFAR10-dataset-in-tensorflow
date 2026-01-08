@@ -3,7 +3,9 @@ using convolutional neural network for this image classification problem.
 
 ## Project Overview
 This project demonstrates image classification using the CIFAR-10 dataset with TensorFlow.
+
 First, a simple Artificial Neural Network (ANN) is trained as a baseline model.
+
 Then, a Convolutional Neural Network (CNN) is implemented to show how CNN improves performance on image data.
 
 ---
