@@ -27,4 +27,4 @@ Then, a Convolutional Neural Network (CNN) is implemented to show how CNN improv
 
 
 
-کrea
+
